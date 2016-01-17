@@ -8,6 +8,10 @@
   },
   "author": "Romain Beaumont <romain.rom1@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rom1504/flying-squid-schematic.git"
+  },
   "dependencies": {
     "express": "^4.13.3",
     "multer": "^1.1.0",
