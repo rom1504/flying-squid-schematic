@@ -15,8 +15,8 @@
   "dependencies": {
     "express": "^4.13.3",
     "multer": "^1.1.0",
-    "prismarine-chunk": "^0.3.2",
-    "prismarine-world": "^0.5.4",
+    "prismarine-chunk": "^1.0.1",
+    "prismarine-world": "^1.0.1",
     "schematic-to-world": "^0.2.5",
     "vec3": "^0.1.3"
   }
