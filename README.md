@@ -16,6 +16,10 @@ And then add something like this in your settings:
 
 ## History
 
+### 1.0.0
+
+* bump dependencies
+
 ### 0.0.1
 
 * update schematic-to-world to fix a bug with mc-schematic

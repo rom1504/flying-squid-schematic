@@ -1,6 +1,6 @@
 {
   "name": "flying-squid-schematic",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Add a command to load a schematic in flying-squid",
   "main": "plugin.js",
   "scripts": {
