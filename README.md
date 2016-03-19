@@ -16,6 +16,10 @@ And then add something like this in your settings:
 
 ## History
 
+### 1.0.1
+
+* bump schematic-to-world
+
 ### 1.0.0
 
 * bump dependencies
